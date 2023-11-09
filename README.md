@@ -27,6 +27,7 @@
   <img align="center" alt="Nimai-marchiori" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nimai-marchiori" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nimai-marchiori" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Nimai-marchiori" height="45" width="45" src="https://img.icons8.com/plasticine/100/api-settings.png" alt="api-settings"/>
   <img align="center" alt="Nimai-marchiori" height="45" width="45" src="https://img.icons8.com/officel/80/react.png" alt="react"/>
   <img align="center" alt="Nimai-marchiori" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
   <img align="center" alt="Nimai-marchiori" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
@@ -34,7 +35,7 @@
 
 ### Studying in this moment:
 <div>
-<img width="48" height="48" src="https://img.icons8.com/plasticine/100/api-settings.png" alt="api-settings"/>
+<img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
 </div>
 
 <div align="center">
