@@ -31,12 +31,16 @@
   <img align="center" alt="Nimai-marchiori" height="45" width="45" src="https://img.icons8.com/officel/80/react.png" alt="react"/>
   <img align="center" alt="Nimai-marchiori" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
   <img align="center" alt="Nimai-marchiori" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
+  <img align="center" alt="Nimai-marchiori" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
+  <img align="center" alt="Nimai-marchiori" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Nimai-marchiori" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
    </div>
-
+<!---
 ### Studying in this moment:
 <div>
 <img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
 </div>
+--->
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
