@@ -1,51 +1,89 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00BFFF&height=200&section=header&text=Nimai%20Marchiori&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Rio%20de%20Janeiro%2C%20Brazil%20🇧🇷&descSize=19&descAlignY=57&descAlign=50"/>
 
-###
-![alt text](https://i.pinimg.com/originals/84/da/da/84dada0a5dcfd790700df3dd87897aef.gif)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;C%23+%26+.NET+Specialist+%F0%9F%8E%AF;Oracle+Database+%7C+Backend+Systems+%F0%9F%97%84%EF%B8%8F;Docker+%26+DevOps+Enthusiast+%F0%9F%90%B3;Always+shipping+something+new+%E2%9A%A1" alt="Typing SVG" />
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Nimai+Marchiori;I'm+30+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+---
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nimai360&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" alt="Nimai Marchiori github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimai360&layout=compact&hide_border=true&title_color=00BFFF&text_color=00BFFF&bg_color=0d1117" />
-</div>
+## 🧑‍💻 About Me
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nimai360&bg_color=000000&color=005bff&line=005bff&point=d11515&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+```yml
+Name     : Nimai Marchiori
+Location : Rio de Janeiro 🇧🇷
+Role     : Full Stack Developer
+Age      : 32
+Core     : C# · .NET · Oracle DB · Backend Architecture
+Infra    : Docker · Linux · Windows Server · VPS
+Frontend : React · Next · JavaScript · TypeScript · Node.js
+Now      : Building file purge systems with Oracle + parallel processing
+Off-code : Volleyball 🏐 · Strength training 💪 · Cooking 🥗
+Fun fact : I find bugs in production faster than in development. 
+```
 
-<div align="center">  
-<a href = "mailto:nimai360@hotmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/nimaimarchiori/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+---
 
-### Main skills:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Nimai-marchiori" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" alt="Nimai-marchiori" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Nimai-marchiori" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="Nimai-marchiori" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Nimai-marchiori" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-original.svg">  
-  <img align="center" alt="Nimai-marchiori" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Nimai-marchiori" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Nimai-marchiori" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Nimai-marchiori" height="45" width="45" src="https://img.icons8.com/plasticine/100/api-settings.png" alt="api-settings"/>
-  <img align="center" alt="Nimai-marchiori" height="45" width="45" src="https://img.icons8.com/officel/80/react.png" alt="react"/>
-  <img align="center" alt="Nimai-marchiori" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
-  <img align="center" alt="Nimai-marchiori" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
-  <img align="center" alt="Nimai-marchiori" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
-  <img align="center" alt="Nimai-marchiori" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Nimai-marchiori" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
-   </div>
-<!---
-### Studying in this moment:
-<div>
-<img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
-</div>
---->
+## 🛠️ Tech Stack
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{nimai360}/count.svg" /></p> 
-<br>
+
+**⚙️ Backend & Core Languages**
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,nodejs,php&theme=dark&perline=6" />
+
+**🗄️ Databases & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=docker,postgres,linux,bash,nginx&theme=dark&perline=6" />
+
+**🌐 Frontend**
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,next,html,css,selenium&theme=dark&perline=7" />
+
+**🛠️ Tools & Environment**
+
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman,androidstudio&theme=dark&perline=6" />
+
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
+---
+
+## 🐍 Contributions
+
+> _"Every commit counts."_
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/nimai360/nimai360/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/nimai360/nimai360/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/nimai360/nimai360/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+---
+
+## 📈 Activity Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nimai360&bg_color=0d1117&color=00BFFF&line=00BFFF&point=ffffff&area_color=00BFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 📬 Contact
+
+<div align="center">
+  <a href="mailto:nimai360@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nimaimarchiori/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nimai360&label=Profile+Views&color=00BFFF&style=for-the-badge" />
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0d1117&height=130&section=footer"/>
