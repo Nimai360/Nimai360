@@ -48,6 +48,20 @@ Fun fact : I find bugs in production faster than in development.
 </div>
 
 ---
+<!--
+## 📊 3D Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season.svg" />
+  <img alt="3D Contributions" src="profile-3d-contrib/profile-night-rainbow.svg" />
+</picture>
+-->
+---
+
+<img src="https://readme-jokes.vercel.app/api?theme=dark&bgColor=%230d1117&borderColor=%2300BFFF&textColor=%23c9d1d9&qColor=%2300BFFF&aColor=%2300BFFF" />
+
+---
 
 ## 🐍 Contributions
 
